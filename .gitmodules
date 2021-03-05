@@ -2,3 +2,8 @@
 	path = norubo/odoo-tir
 	url = git@github.com:norubo/odoo-tir.git
 	branch = 14.0_cv
+
+[submodule "OCA/reporting-engine"]
+	path = OCA/reporting-engine
+	url = git@github.com:OCA/reporting-engine.git
+	branch = 13.0
